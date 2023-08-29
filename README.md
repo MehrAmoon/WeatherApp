@@ -12,7 +12,7 @@ This document provides an overview of the Weather App, its architecture, feature
 - [Architectural Patterns](#architectural-patterns)
 - [Weather API - OpenWeatherMap](#weather-api---openweathermap)
 - [Android Keystore system](#android-keystore-system)
-- 
+
 
 ## Introduction
 
