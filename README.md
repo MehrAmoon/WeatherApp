@@ -13,7 +13,7 @@ This document provides an overview of the Weather App, its architecture, feature
 
 ## Introduction
 
-The Weather App is a modern mobile application designed to provide users with accurate weather information for their chosen cities. The app adopts best practices in software architecture and employs popular technologies such as Clean Architecture, MVVM, Hilt, Room, and Compose to ensure a robust and maintainable codebase.
+The Weather App is a modern mobile application designed to provide users with accurate weather information for their chosen cities. The app adopts best practices in software architecture and employs Clean Architecture, MVVM, Hilt, Room, and Compose to ensure a robust and maintainable codebase.
 
 ## Features
 
