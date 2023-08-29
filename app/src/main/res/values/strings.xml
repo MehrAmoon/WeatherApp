@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="about_app">Weather App</string>
+    <string name="retry">Retry</string>
+    <string name="no_entry">Oops! Nothing found.</string>
+    <string name="this_week">THIS WEEK FORECAST</string>
+
+</resources>
