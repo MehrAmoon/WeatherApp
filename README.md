@@ -10,6 +10,9 @@ This document provides an overview of the Weather App, its architecture, feature
 - [Libraries Used](#libraries-used)
 - [Design Patterns](#design-patterns)
 - [Architectural Patterns](#architectural-patterns)
+- [Weather API - OpenWeatherMap](#weather-api---openweathermap)
+- [Android Keystore system](#android-keystore-system)
+- 
 
 ## Introduction
 
@@ -57,3 +60,11 @@ The Weather App is built on the principles of Clean Architecture, promoting a cl
 - `Model-View-ViewModel (MVVM) pattern`
 - `Single-activity architecture`
 - `State hoisting`
+
+## Weather API - OpenWeatherMap
+
+Simple, fast and free multi language weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. 
+
+## Android Keystore system
+
+The Android Keystore system lets you store cryptographic keys in a container to make them more difficult to extract from the device.
